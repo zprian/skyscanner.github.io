@@ -42,6 +42,6 @@
     "@testing-library/react": "^12.1.5",
     "eslint_d": "^12.2.1",
     "husky": "^8.0.3",
-    "postcss": "^8.4.31"
+    "postcss": "^8.4.32"
   }
 }
